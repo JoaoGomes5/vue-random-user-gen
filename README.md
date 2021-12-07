@@ -10,7 +10,12 @@
 
 👨 A simple Vue project that generates random user information. Built to learn Vue. 🍏
 
-![Alt Text](https://media1.giphy.com/media/ghqVyVhRrXGDVWHVLk/giphy.gif?cid=790b761137c6a716b91ffb82d18d59e8f345b662b61c5642&rid=giphy.gif&ct=g)
+<p align="center">
+
+ <img src="https://media1.giphy.com/media/ghqVyVhRrXGDVWHVLk/giphy.gif?cid=790b761137c6a716b91ffb82d18d59e8f345b662b61c5642&rid=giphy.gif&ct=g" alt="APP"/>
+</p>
+
+
 
 ## 🔨 Features
 
